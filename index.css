@@ -6,7 +6,7 @@ body{
 
 }
 .title{
-    margin: 20px 0px;
+    margin: 2px 0px;
 }
 a{
     /* Color: blue */
@@ -14,7 +14,7 @@ a{
 }
 .box-part{
     background-color: whitesmoke;
-    padding: 50px 10px;
+    padding: 60px 10px;
     margin: 30px 0px;
 }
 .box{
