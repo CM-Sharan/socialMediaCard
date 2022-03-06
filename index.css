@@ -2,7 +2,7 @@ body{
     background-color: rgba(128, 128, 128, 0.685);
 }
 .fa{
-    color: rgba(35, 24, 192, 0.808);
+    color: #4183D7;
 
 }
 .title{
@@ -10,7 +10,8 @@ body{
 }
 a{
     /* Color: blue */
-    border-bottom: 2px solid rgb(24,24,209);
+    color: #4183D7;
+    border-bottom: 2px solid #4183D7;
 }
 .box-part{
     background-color: whitesmoke;
